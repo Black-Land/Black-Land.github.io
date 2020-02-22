@@ -2,9 +2,8 @@ const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: true,
     autoplay: false,
-    mode: 'random',
     audio: [
-        {name:"Fly Away",artist:'Corrinne May',url:'http://mr3.doubanio.com/fa0534532a679e824fab25953a884ad3/0/fm/song/p312847_128k.mp3',cover: 'https://www.bing.com/th?id=OHR.MalhamStars_ZH-CN4163177154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'},
+{name:"Fly Away",artist:'Corrinne May',url:'http://mr3.doubanio.com/fa0534532a679e824fab25953a884ad3/0/fm/song/p312847_128k.mp3',cover: 'https://www.bing.com/th?id=OHR.MalhamStars_ZH-CN4163177154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp'},
 {name:"Painting the Sun",artist:'David Lanz',url:'http://mr3.doubanio.com/df641d87444bc50895bd702d87e5f1b7/0/fm/song/p1518179_128k.mp3',cover: 'https://www.bing.com/th?id=OHR.MalhamStars_ZH-CN4163177154_1920x1080.jpg&rf=LaDigue_1920x1081.jpg&pid=hp'},
 {name:"消愁",artist:'毛不易',url:'http://mr1.doubanio.com/c43b8b7d59de6e33604fbdab20b505b5/0/fm/song/p14580571_128k.mp3',cover: 'https://www.bing.com/th?id=OHR.MalhamStars_ZH-CN4163177154_1920x1080.jpg&rf=LaDigue_1920x1082.jpg&pid=hp'},
 {name:"アイ",artist:'秦基博',url:'http://mr3.doubanio.com/737de20732fa3714f104a6eb6e6d50ce/0/fm/song/p1531897_128k.mp3',cover: 'https://www.bing.com/th?id=OHR.MalhamStars_ZH-CN4163177154_1920x1080.jpg&rf=LaDigue_1920x1083.jpg&pid=hp'},
